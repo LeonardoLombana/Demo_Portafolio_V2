@@ -1,1 +1,1 @@
-alert ("Este es un mensaje de alerta")
+alert ("Hola, un gusto que visites nuestra pagina.")
